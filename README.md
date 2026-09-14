@@ -48,4 +48,12 @@ https://share.google/Gu3C1gIvis1qB5Lzs
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/noor-colour-tech-website.git
+git clone https://github.com/Rijwan123/noor-colour-tech-website.git
+
+Option 1: Open directly in browser
+
+Open: 
+
+index.html
+
+You can double-click the file, and it will open in your default web browser.
