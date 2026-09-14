@@ -1,0 +1,16 @@
+SEO setup added for Noor Colour Tech
+
+Files:
+- index.html
+- robots.txt
+- sitemap.xml
+
+Current canonical/site URL:
+https://lovely-bavarois-d2e893.netlify.app/
+
+When you connect a custom domain later, replace the above Netlify URL in:
+- index.html (canonical, Open Graph URL, LocalBusiness schema)
+- robots.txt
+- sitemap.xml
+
+Google Analytics is not added yet because it requires your Google Analytics Measurement ID (G-XXXXXXXXXX).
