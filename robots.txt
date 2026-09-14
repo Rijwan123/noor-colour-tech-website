@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://lovely-bavarois-d2e893.netlify.app/sitemap.xml
+Sitemap: https://noorcolourtech.netlify.app/sitemap.xml
