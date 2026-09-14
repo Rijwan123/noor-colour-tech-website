@@ -1,0 +1,11 @@
+Cloudflare Pages SEO package for Noor Colour Tech
+
+Live URL:
+https://noor-colour-tech.pages.dev/
+
+Updated:
+- canonical URL
+- Open Graph URL
+- LocalBusiness/AutoRepair schema URL
+- robots.txt sitemap location
+- sitemap.xml page URL

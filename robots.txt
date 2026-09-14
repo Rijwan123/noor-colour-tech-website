@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://noorcolourtech.netlify.app/sitemap.xml
+Sitemap: https://noor-colour-tech.pages.dev/sitemap.xml
